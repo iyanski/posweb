@@ -1,0 +1,10 @@
+TODO:
+	transaction ##script_edit
+ 	patients	##user_red
+	physicians ##user_suit
+	users  ##user
+	products #pill
+	reports ##report
+		-> sales inventory ##book
+		-> products ##pill_go
+		-> inventory log #script_gear
